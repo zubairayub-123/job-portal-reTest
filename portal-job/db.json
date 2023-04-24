@@ -1,0 +1,24 @@
+{ 
+  "Jobs":[ 
+    {
+      "jobName": "Java Developer",
+      "Salary": 22222,
+      "Location": "bangalore",
+      "Skills": "java"
+     },
+  
+  {
+    "jobName": "Fullstack Developer",
+    "Salary": 100,
+    "Location": "Masco",
+    "Skills": "Html,CSS , React"
+  
+  }
+  ],
+  "users":[
+    {
+      "email":"sachinrampur88@gmail.com",
+       "password":"sachin@123"
+    }
+  ]
+}
